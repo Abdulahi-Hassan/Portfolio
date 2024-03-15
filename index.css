@@ -183,6 +183,9 @@ span {
     border-color: var(--main-color);
     transform: scale(1.02);
 }
+.services-box .btn{
+    margin-top: 4rem;
+}
 .services-box i{
     font-size: 7rem;
     color:var(--main-color);
